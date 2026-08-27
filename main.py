@@ -1,7 +1,7 @@
 import asyncio
 import sys
 
-from asynccrawler import crawl_site_async
+from crawl import *
 
 
 def check_args():
